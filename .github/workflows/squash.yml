@@ -34,7 +34,7 @@ jobs:
         mode:
           - normal
           - test
-        target: []
+        target: [opz-lts]
         include:
         - mode: normal
           title: Squashing builder
